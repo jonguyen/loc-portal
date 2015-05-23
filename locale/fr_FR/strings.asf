@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE asf SYSTEM "http://ns.adobe.com/asf/asf_1_0.dtd" >
+<asf xmlns="http://ns.adobe.com/asf" locale="fr_FR" version="1.0">
+
+<str name="HELLO" translate="yes">
+<val>é_Hello World!</val>
+</str>
+
+</asf>
