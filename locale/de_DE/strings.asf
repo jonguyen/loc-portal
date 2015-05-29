@@ -3,7 +3,7 @@
 <asf xmlns="http://ns.adobe.com/asf" locale="de_DE" version="1.0">
 
 <str name="HELLO" translate="yes">
-<val>ü_Hello World!</val>
+<val>ü_Hello World 2!</val>
 </str>
 
 </asf>
