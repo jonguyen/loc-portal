@@ -3,7 +3,7 @@
 <asf xmlns="http://ns.adobe.com/asf" locale="ja_JP" version="1.0">
 
 <str name="HELLO" translate="yes">
-<val>能_[X3] Hello World 3!能_</val>
+<val>能_Hello World 3!</val>
 </str>
 
 </asf>
