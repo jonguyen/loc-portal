@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><resources>
+
+    <!-- homeScreenTitle is changed by app builder. -->
+    <string name="homeScreenTitle">ü_Adobe Viewer</string>
+
+    <!-- General Purpose -->
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="always">ü_Always</string>
+    <string name="units_bytes">ü_B</string>
+    <string name="units_kilobytes">ü_KB</string>
+    <string name="units_megabytes">ü_MB</string>
+    <string name="units_gigabytes">ü_GB</string>
+    <string name="units_terabytes">ü_TB</string>
+
+    <!-- Browse View -->
+    <string name="noTitle">ü_No title</string>
+    <string name="openDrawer">ü_Open navigation drawer</string>
+    <string name="closeDrawer">ü_Close navigation drawer</string>
+    <string name="preview_mode_enabled">ü_PREVIEW MODE ENABLED</string>
+
+    <!-- Collection Activity -->
+    <string name="menu_buy">ü_BUY</string>
+    <string name="menu_settings">ü_Settings</string>
+    <string name="menu_sign_in">ü_Sign in</string>
+    <string name="menu_sign_out">ü_Sign out</string>
+    <string name="menu_privacy_policy">ü_Privacy policy</string>
+    <string name="menu_collection_fallback">ü_Collection</string>
+    <string name="menu_article_fallback">ü_Article</string>
+
+    <!-- Settings Activity -->
+    <string name="category_general">ü_General</string>
+    <string name="enable_tracking_title">ü_Track general usage data</string>
+    <string name="enable_tracking_description">ü_Track data such as which content is viewed</string>
+    <string name="metered_download_title">ü_Metered connection download</string>
+    <string name="metered_download_description">ü_Do not prompt on metered connections</string>
+    <string name="storage_location_title">ü_Storage location</string>
+    <string name="storage_location_description_internal">ü_Internal (on this device)</string>
+    <string name="storage_location_description_removed">ü_External storage removed</string>
+    <string name="storage_location_dialog_title">ü_Choose storage location</string>
+    <string name="storage_location_internal">ü_Internal</string>
+    <string name="storage_location_external">ü_%1$s %2$s External</string>
+    <string name="storage_location_free_space">ü_%1$s %2$s free</string>
+    <string name="storage_location_removed">ü_Removed</string>
+    <string name="category_about">ü_About</string>
+    <string name="application_version">ü_Version</string>
+    <string name="application_build">ü_Build</string>
+
+    <!-- Library Update Errors -->
+    <string name="update_error_issue_list">ü_Unable to update the library. Make sure that you have a network connection and try again.</string>
+    <string name="update_error_invalid_ticket">ü_Unable to update the library. Please sign in again.</string>
+
+    <!-- Download Errors -->
+    <string name="download_error_no_network">ü_No network connection is available. Verify your network connection and try again.</string>
+    <string name="download_error_unknown">ü_This content is temporarily unavailable. Please try again later.</string>
+
+    <!-- Authentication Activity -->
+    <string name="authenticationDialogTitle">ü_Sign in</string>
+    <string name="authenticationIdHint">ü_Username</string>
+    <string name="authenticationPasswordHint">ü_Password</string>
+    <string name="authenticationPositiveButton">ü_Sign in</string>
+    <string name="authenticationWaitIndeterminate">ü_Signing in…</string>
+    <string name="authenticationPrompt">ü_Enter the information below to access your account.</string>
+    <string name="authenticationForgotPassword">ü_Forgotten your password?</string>
+    <string name="authenticationCreateAccount">ü_Create an account</string>
+    <string name="authenticationNoNetwork">ü_It looks like you aren\'t connected to the Internet. To sign in, connect and try again.</string>
+    <string name="authenticationBadUsername">ü_Enter a valid username.</string>
+    <string name="authenticationNoPassword">ü_Enter a password.</string>
+    <string name="authenticationFailedTemporary">ü_Unable to connect to the server to verify your account. Wait a few minutes, then try logging in again.</string>
+    <string name="authenticationFailedNotTemporary">ü_That username or password didn\'t work. Double-check them and try again.</string>
+
+    <!-- Folio Activity -->
+    <string name="accessibilityPage">ü_Page</string>
+    <string name="openExternalLinkDialogTitle">ü_Open external link?</string>
+    <string name="openExternalLinkDialogBody">ü_Are you sure that you want to leave this application and open this external link?</string>
+
+    <!-- In App Browser Activity -->
+    <string name="webview_back_button">ü_Previous page</string>
+    <string name="webview_forward_button">ü_Next page</string>
+    <string name="webview_cancel_button">ü_Cancel page load</string>
+    <string name="webview_refresh_button">ü_Refresh page</string>
+    <string name="webview_external_button">ü_View in browser</string>
+
+    <!-- Update pill -->
+    <string name="update_available">ü_Update available</string>
+
+    <!-- Refresh button (hidden in UI but accessible via accessibility) -->
+    <string name="refresh_button">ü_Refresh button</string>
+
+    <!-- Video player strings -->
+    <string name="play">Abspielen</string>
+    <string name="pause">ü_Pause</string>
+    <string name="fullscreenVideoLabel">ü_Full</string>
+
+    <!-- Alerts -->
+    <string name="alert_allow">Zulassen</string>
+    <string name="alert_do_not_allow">ü_Don\'t allow</string>
+    <string name="alert_enable_tracking_title">ü_Track usage?</string>
+    <string name="alert_enable_tracking">ü_Allow this application to track general usage data such as which content is viewed?</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_billing_unavailable">ü_Billing unavailable. Check that your Google account is associated with the Google Play Store and try again.</string>
+    <string name="alert_invalid_purchase">ü_Unable to validate purchase receipt. Try again later.</string>
+    <string name="alert_no_receipt">ü_No valid purchase receipt is available for this content. If you recently purchased this content on another device, wait a few minutes, then try again.</string>
+    <string name="alert_missing_shared_secret">ü_Unable to validate the receipt due to a missing shared secret. To resolve this issue, use the Project Settings page of the DPS Portal to specify the shared secret.</string>
+    <string name="alert_no_preview_content_found_title">ü_No preview content found</string>
+    <string name="alert_no_preview_content_found">ü_To enable preview, go to the Content &amp; Layouts section of the dashboard and click the preview button for this project.</string>
+
+    <!-- Loading/Splash screen -->
+    <string name="downloading">ü_Downloading</string>
+    <string name="download_paused">ü_Download paused</string>
+    <string name="download_failed">ü_Download failed</string>
+    <string name="content_not_found">ü_Content not found</string>
+    <string name="loading_no_internet">ü_No Internet connection</string>
+    <string name="retry">ü_Retry</string>
+
+    <!-- Paywall -->
+    <string name="paywall_author">ü_%1$s</string>
+    <string name="paywall_purchase_options">ü_View Purchase Options</string>
+    <string name="paywall_already_subscriber">ü_Already a subscriber?</string>
+    <string name="paywall_sign_in">ü_Sign in</string>
+    <string name="paywall_protected_article_subtext">ü_This article is part of a collection that must be purchased.</string>
+    <string name="paywall_article_unavailable_subtext">ü_This article is not available for preview.</string>
+    <string name="paywall_article_unavailable_with_offers_subtext">ü_This article is not available for preview. Purchase to get more content.</string>
+    <string name="paywall_close_button_content_description">Schließen</string>
+    <string name="paywall_metering_status_title">ü_Thank You for Browsing</string>
+    <string name="paywall_metering_toast">ü_You are browsing a free preview of %1$s</string>
+    <string name="paywall_metering_status_subtext_daily">ü_Your free browsing period has ended. Purchase to get more content or come back tomorrow to browse again.</string>
+    <string name="paywall_metering_status_subtext_weekly">ü_Your free browsing period has ended. Purchase to get more content or come back next week to browse again.”</string>
+    <string name="paywall_metering_status_subtext_monthly">ü_Your free browsing period has ended. Purchase to get more content or come back next month to browse again.</string>
+    <string name="paywall_metering_status_subtext_default">ü_Your free browsing period has ended. Purchase to get more content or come back later to browse again.</string>
+    <string name="paywall_dialog_subtext">ü_Purchase to get more content.</string>
+
+    <!-- Social Sharing -->
+    <string name="chooser_title">ü_Share with</string>
+
+    <!-- Preflight -->
+    <string name="preflight_long_title">ü_Adobe Digital Publishing Solution Preflight</string>
+    <string name="preflight_short_title">ü_DPS Preflight</string>
+    <string name="preflight_description_title">ü_Preflight Your App</string>
+    <string name="preflight_description_content">ü_Test and preflight your DPS app and content on-device before publishing.</string>
+    <string name="preflight_learn_more">Weitere Informationen</string>
+    <string name="preflight_sign_in">ü_Sign In</string>
+    <string name="preflight_drawer_my_projects">ü_Back to My Projects</string>
+
+    <!-- Currently unused strings -->
+    <string name="metered_download_dialog_title">ü_Download issue?</string>
+    <string name="metered_download_dialog_message">ü_Some issue downloads are large and could result in additional data charges using your current network connection. Download the issue anyway?</string>
+
+</resources>
